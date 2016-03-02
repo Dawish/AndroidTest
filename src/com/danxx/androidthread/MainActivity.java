@@ -175,4 +175,5 @@ public class MainActivity extends Activity {
 		/**取消注册**/
 		EventBus.getDefault().unregister(this);
 	}
+	
 }

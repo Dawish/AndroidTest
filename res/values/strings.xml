@@ -4,5 +4,6 @@
     <string name="app_name">AndroidTest</string>
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_event_bus_test">EventBusTestActivity</string>
+    <string name="title_activity_activity_handler_thread">ActivityHandlerThread</string>
 
 </resources>
